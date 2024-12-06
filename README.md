@@ -29,6 +29,9 @@ python UI.py
 Start Detecting Sign Language:
 Use the application interface to detect and translate sign language into words or sentences in real-time.
 
+####Sign_Language_Detection.mp4 Given for help.
+
+
 Notes
 The keras_model.h5 contains the trained machine learning model for gesture recognition.
 The labels.txt maps gestures to their corresponding words or sentences.
